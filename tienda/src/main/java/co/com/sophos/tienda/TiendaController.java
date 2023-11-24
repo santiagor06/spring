@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TiendaController {
     @GetMapping("/hola")
     public String saludar(){
-        return "Hola Mundo";
+        return "Holaaaaa";
     }
 }
